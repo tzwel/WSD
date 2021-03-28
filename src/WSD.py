@@ -8,10 +8,20 @@ disable = [
     "wuauserv",
     "XboxGipSvc",
     "XblGameSave",
+    "XblAuthManager",
+    "XboxNetApiSvc",
     "wercplsupport",
     "WalletService",
     "Fax",
-    "WerSvc"
+    "WerSvc",
+    "pla",
+    "RstMwService",
+    "lfsvc",
+    "diagnosticshub.standardcollector.service",
+    "wlidsvc",
+    "PNRPAutoReg",
+    "WMPNetworkSvc",
+    "icssvc"
 ]
 
 ### FUNCTION DECLARATIONS
