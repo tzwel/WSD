@@ -1,4 +1,4 @@
-<p align="center"> <img src="/images/logo.png" width="auto" height="44px" alt="WSD logo" /> </p>
+<p align="center"> <img src="/images/logo.png" width="auto" height="80px" alt="WSD logo" /> </p>
 
 <h1> WSD - Windows Service Debloater </h1>
 
