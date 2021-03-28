@@ -1,7 +1,7 @@
 # WSD
  Windows Service Debloater written in Python
  
- ## WSD disables Windows services that bloat your computer, and are unnecessary
+ ### WSD disables Windows services that bloat your computer, and are unnecessary
  The full list of services getting disabled:
  
  - uhssvc
