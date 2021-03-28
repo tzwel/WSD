@@ -1,4 +1,4 @@
-# WSD - Windows Service Debloater
+# WSD - Windows Service Debloater 🛡
 
 ### WSD disables Windows services that bloat your computer, and are unnecessary for your PC to work
 
