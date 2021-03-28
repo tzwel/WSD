@@ -1,6 +1,6 @@
 # WSD - Windows Service Deblaoter
 
-### WSD disables Windows services that bloat your computer, and are unnecessary
+### WSD disables Windows services that bloat your computer, and are unnecessary for your pc to work
 The full list of services getting disabled:
  
 - uhssvc
