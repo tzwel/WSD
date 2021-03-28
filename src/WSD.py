@@ -18,6 +18,7 @@ services = [
     "RstMwService",   # Intel® Rapid Storage Technology Management Service
     "lfsvc",          # Geolocation Service
     "diagnosticshub.standardcollector.service",
+                      # Microsoft® Diagnostics Hub Standard Collector
     "wlidsvc",        # Microsoft Windows Live ID Service
     "PNRPAutoReg",    # PNRP Machine Name Publication Service
     "WMPNetworkSvc",  # Windows Media Player Network Sharing Service
@@ -46,6 +47,7 @@ print(" \ ============================================== / ")
 print("  |   Type:")
 print("  |   1 - To disable unnecessary services")
 print("  |   2 - To enable unnecessary services")
+
 
 userChoice = int(input(""))
 if userChoice == 1:
