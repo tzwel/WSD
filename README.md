@@ -4,7 +4,7 @@
  ### WSD disables Windows services that bloat your computer, and are unnecessary
  The full list of services getting disabled:
  
- - uhssvc
+- uhssvc
 - wuauserv
 - XboxGipSvc
 - XblGameSave
