@@ -15,7 +15,7 @@ services = [
     "Fax",            # Fax
     "WerSvc",         # Windows Error Reporting Service
     "pla",            # Performance logs and alerts
-    "RstMwService",   # Intel® Rapid Storage Technology Management Service
+    "RstMwService",   # Windows store communication
     "lfsvc",          # Geolocation Service
     "diagnosticshub.standardcollector.service",
                       # Microsoft® Diagnostics Hub Standard Collector
@@ -23,7 +23,9 @@ services = [
     "PNRPAutoReg",    # PNRP Machine Name Publication Service
     "WMPNetworkSvc",  # Windows Media Player Network Sharing Service
     "icssvc",         # Windows Mobile Hotspot Service
-    "DoSvc"           # Delivery Optimization service
+    "DoSvc",          # Delivery Optimization service
+    "DiagTrack",      # Environment and telemetry
+    "DusmSvc"         # Data usage
 ]
 
 ### FUNCTION DECLARATIONS
