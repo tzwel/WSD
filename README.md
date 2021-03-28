@@ -9,5 +9,5 @@
 
 ### Installation for advanced users (latest .py versions)
 ```shell
-git clone github.com/tzwel/WSD/src
+git clone https://github.com/tzwel/WSD.git
 ```
