@@ -1,0 +1,2 @@
+# WSD
+ Windows Service Debloater
