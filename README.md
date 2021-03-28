@@ -4,7 +4,7 @@
 
 ### [Download (v0.1.0)](https://github.com/tzwel/WSD/releases/download/0.1.0/WSD.exe)
 
-## The full list of services getting disabled:
+## The full list of services WSD disables:
  
 - uhssvc
 - wuauserv
