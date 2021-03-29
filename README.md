@@ -4,4 +4,10 @@
 
 ### WSD disables Windows services that bloat your computer, track you and are unnecessary for your PC to work
 
-### [Downloads](https://github.com/tzwel/WSD/releases)
+## Installation methods
+### [Downloads](https://github.com/tzwel/WSD/releases) - for most users
+
+### Installation for advanced users (latest .py versions)
+```shell
+git clone https://github.com/tzwel/WSD.git
+```
