@@ -5,10 +5,10 @@
 ### WSD disables Windows services that bloat your computer, track you and are unnecessary for your PC to work
 The lists of processes WSD will disable is currently stored in [this](https://github.com/tzwel/WSD/blob/main/src/WSDservices.py) file.
 
-## Installation methods
+## Download methods
 ### [Downloads](https://github.com/tzwel/WSD/releases) - for most users
 
-### Installation for advanced users (latest .py versions, often experimental)
+### Download for advanced users (latest .py versions, often experimental)
 ```shell
 git clone https://github.com/tzwel/WSD.git
 ```
