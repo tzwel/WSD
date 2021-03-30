@@ -7,7 +7,7 @@
 ## Installation methods
 ### [Downloads](https://github.com/tzwel/WSD/releases) - for most users
 
-### Installation for advanced users (latest .py versions)
+### Installation for advanced users (latest .py versions, often experimental)
 ```shell
 git clone https://github.com/tzwel/WSD.git
 ```
