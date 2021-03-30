@@ -20,5 +20,6 @@ services = [
     "icssvc",         # Windows Mobile Hotspot Service
     "DoSvc",          # Delivery Optimization service
     "DiagTrack",      # Environment and telemetry
-    "DusmSvc"         # Data usage
+    "DusmSvc",        # Data usage
+    "dmwappushsvc"    # Device Management Wireless Application Protocol
 ]
