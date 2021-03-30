@@ -3,7 +3,7 @@
 <h1 align="center"> WSD - Windows Service Debloater </h1>
 
 ### WSD disables Windows services that bloat your computer, track you and are unnecessary for your PC to work
-The lists of processess WSD will disable is currently stored in [this](https://github.com/tzwel/WSD/blob/main/src/WSDservices.py) file.
+The lists of processes WSD will disable is currently stored in [this](https://github.com/tzwel/WSD/blob/main/src/WSDservices.py) file.
 
 ## Installation methods
 ### [Downloads](https://github.com/tzwel/WSD/releases) - for most users
