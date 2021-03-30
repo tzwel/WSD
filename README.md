@@ -7,6 +7,7 @@ The lists of processes WSD will disable are currently stored in [this](https://g
 
 ## Download methods
 ### [Releases](https://github.com/tzwel/WSD/releases) - for most users
+Head to this section and pick whatever release fits your taste, you would usually want the latest one
 
 ### Download for advanced users (latest .py versions, often experimental)
 ```shell
