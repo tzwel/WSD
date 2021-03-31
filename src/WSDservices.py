@@ -26,5 +26,6 @@ services = [
                       # Windows Module Installer
     "MozillaMaintenance",
                       # Mozilla Maintenance Service
-    "UevAgentService" # User Experience Virtualization Service
+    "UevAgentService",# User Experience Virtualization Service
+    "utcsvc"          # Diagnostics Tracking Service
 ]
