@@ -24,8 +24,13 @@ services = [
     "dmwappushsvc",   # Device Management Wireless Application Protocol
     "TrustedInstaller",
                       # Windows Module Installer
+    "UevAgentService",# User Experience Virtualization Service
+    "utcsvc",         # Diagnostics Tracking Service
+
+    ### THIRD PARTY
+
     "MozillaMaintenance",
                       # Mozilla Maintenance Service
-    "UevAgentService",# User Experience Virtualization Service
-    "utcsvc"          # Diagnostics Tracking Service
+    "AGMService"      # Adobe Genuine Monitor Service
+
 ]
