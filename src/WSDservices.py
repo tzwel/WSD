@@ -22,5 +22,9 @@ services = [
     "DiagTrack",      # Environment and telemetry
     "DusmSvc",        # Data usage
     "dmwappushsvc",   # Device Management Wireless Application Protocol
-    "TrustedInstaller"# Windows Module Installer
+    "TrustedInstaller",
+                      # Windows Module Installer
+    "MozillaMaintenance",
+                      # Mozilla Maintenance Service
+    "UevAgentService" # User Experience Virtualization Service
 ]
