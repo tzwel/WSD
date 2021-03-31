@@ -32,5 +32,4 @@ services = [
     "MozillaMaintenance",
                       # Mozilla Maintenance Service
     "AGMService"      # Adobe Genuine Monitor Service
-
 ]
