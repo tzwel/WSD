@@ -21,5 +21,6 @@ services = [
     "DoSvc",          # Delivery Optimization service
     "DiagTrack",      # Environment and telemetry
     "DusmSvc",        # Data usage
-    "dmwappushsvc"    # Device Management Wireless Application Protocol
+    "dmwappushsvc",   # Device Management Wireless Application Protocol
+    "TrustedInstaller"# Windows Module Installer
 ]
