@@ -9,9 +9,9 @@ system("title " + "WSD")
 
 #| windows services start
 def win_services():
-    print("  |   Enable / disable Windows services")
-    print("  |   1 - Disable")
-    print("  |   2 - Enable")
+    print("  v   Enable / disable Windows services")
+    print("  -   1 - Disable")
+    print("  -   2 - Enable")
     userChoice = int(input(""))
 
     if userChoice == 1:
@@ -26,9 +26,9 @@ def win_services():
 #| windows services end
 #| 3p services start
 def thirdparty_services():
-    print("  |   Enable / disable Windows services")
-    print("  |   1 - Disable")
-    print("  |   2 - Enable")
+    print("  v   Enable / disable Windows services")
+    print("  -   1 - Disable")
+    print("  -   2 - Enable")
     userChoice = int(input(""))
 
     if userChoice == 1:
@@ -45,15 +45,15 @@ def thirdparty_services():
 
 
 ### WELCOME SCREEN
-print(" / ============================================== \ ")
-print("|             Windows Service Debloater            |")
-print(" \ ============================================== / ")
+print("")
+print("           | Windows Service Debloater |")
+print(" ")
 
 
 ### INIT USER CHOICE
-print("  |   Choose what you want to take an action on")
-print("  |   1 - Windows services")
-print("  |   2 - Third party services")
+print("  v   Choose what you want to take an action on")
+print("  -   1 - Windows services")
+print("  -   2 - Third party services")
 
 userChoice = int(input(""))
 if userChoice == 1:
