@@ -50,7 +50,7 @@ print("|             Windows Service Debloater            |")
 print(" \ ============================================== / ")
 
 
-### USER CHOICE
+### INIT USER CHOICE
 print("  |   Choose what you want to take an action on")
 print("  |   1 - Windows services")
 print("  |   2 - Third party services")
@@ -60,6 +60,5 @@ if userChoice == 1:
     win_services()
 elif userChoice == 2:
     thirdparty_services()
-
 
 os.system("pause")
