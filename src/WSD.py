@@ -61,4 +61,4 @@ if userChoice == 1:
 elif userChoice == 2:
     thirdparty_services()
 
-os.system("pause")
+input('Done! Press enter to exit')
