@@ -1,3 +1,3 @@
-<p align="center"> <img src="/images/logo.png" width="auto" height="80px" alt="WSD logo" /> </p>
+<p align="center"> <img src="/images/devlogo.png" width="auto" height="80px" alt="WSD logo" /> </p>
 
 <h1 align="center"> WSD dev branch </h1>
