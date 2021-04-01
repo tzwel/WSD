@@ -9,7 +9,7 @@ system("title " + "WSD")
 
 #| windows services start
 def win_services():
-    print("  v   Enable / disable Windows services")
+    print("  ·   Enable / disable Windows services")
     print("  -   1 - Disable")
     print("  -   2 - Enable")
     userChoice = int(input(""))
@@ -26,7 +26,7 @@ def win_services():
 #| windows services end
 #| 3p services start
 def thirdparty_services():
-    print("  v   Enable / disable Windows services")
+    print("  ·   Enable / disable Windows services")
     print("  -   1 - Disable")
     print("  -   2 - Enable")
     userChoice = int(input(""))
@@ -51,7 +51,7 @@ print(" ")
 
 
 ### INIT USER CHOICE
-print("  v   Choose what you want to take an action on")
+print("  ·   Choose what you want to take an action on")
 print("  -   1 - Windows services")
 print("  -   2 - Third party services")
 
