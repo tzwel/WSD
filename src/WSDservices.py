@@ -25,8 +25,10 @@ services = [
     "TrustedInstaller",
                       # Windows Module Installer
     "UevAgentService",# User Experience Virtualization Service
-    "utcsvc",         # Diagnostics Tracking Service
+    "utcsvc"          # Diagnostics Tracking Service
+]
 
+thirdpartyservices = [
     ### THIRD PARTY
 
     "MozillaMaintenance",
