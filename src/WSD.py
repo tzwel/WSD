@@ -3,6 +3,7 @@ import os
 from WSDservices import services, thirdpartyservices
 from os import system
 system("title " + "WSD")
+system("mode con:cols=50 lines=20")
 
 ### FUNCTION DECLARATIONS
     # DISABLE WINDOWS SERVICES
