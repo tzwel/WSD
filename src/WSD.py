@@ -17,11 +17,12 @@ def win_services():
     if userChoice == 1:
         for i in services:
             print("Trying to disable", i)
-            os.system('cmd /c "sc config {} start= disabled"'.format(i))
+            os.system(f'cmd /c "sc config {i} start= disabled"')
+
     elif userChoice == 2:
         for i in services:
             print("Trying to enable", i)
-            os.system('cmd /c "sc config {} start= demand"'.format(i))
+            os.system(f'cmd /c "sc config {i} start= demand"')
 
 #| windows services end
 #| 3p services start
