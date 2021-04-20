@@ -36,11 +36,11 @@ def thirdparty_services():
     if userChoice == 1:
         for i in thirdpartyservices:
             print("Trying to disable", i, "(3p)")
-            os.system('cmd /c "sc config {} start= disabled"'.format(i))
+            os.system(f'cmd /c "sc config {i} start= disabled"')
     elif userChoice == 2:
         for i in thirdpartyservices:
             print("Trying to enable", i, "(3p)")
-            os.system('cmd /c "sc config {} start= demand"'.format(i))
+            os.system(f'cmd /c "sc config {i} start= demand"')
 
 #| windows services end
 
